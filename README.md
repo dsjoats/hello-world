@@ -1,4 +1,3 @@
 # hello-world
-fun fun fun
 
-this is my first edit; i like lamp
+How do I add code from somewhere else?  This is my 2nd branch.  Trying to repeat w/o looking at the guilde.
